@@ -1,0 +1,199 @@
+{
+    "timer" :200,
+    "blocks" :
+    [
+        [
+            [8,1],
+            { "image":"red.gif", "delete":true, "points":10, "paddle_delta":-1 }
+        ],
+        [
+            [8,2],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,3],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,4],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,5],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,6],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,7],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,8],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,9],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,10],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,11],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [8,12],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,1],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,2],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,3],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,4],
+            { "image":"red.gif", "delete":true, "points":10, "bonus":50 }
+        ],
+        [
+            [9,5],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,6],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,7],
+            { "image":"red.gif", "delete":true, "points":10, "bonus":50 }
+        ],
+        [
+            [9,8],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,9],
+            { "image":"red.gif", "delete":true, "points":10, "paddle_delta":-1 }
+        ],
+        [
+            [9,10],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,11],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [9,12],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,1],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,2],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,3],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,4],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,5],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,6],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,7],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,8],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,9],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,10],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [5,11],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "extra_ball": true }
+        ],
+        [
+            [5,12],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "extra_ball": true }
+        ],
+        [
+            [4,1],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "paddle_delta":1 }
+        ],
+        [
+            [4,2],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,3],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,4],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,5],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,6],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "paddle_delta":1 }
+        ],
+        [
+            [4,7],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "bonus":50 }
+        ],
+        [
+            [4,8],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,9],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,10],
+            { "image":"bluegreen.gif", "delete":true, "points":20 }
+        ],
+        [
+            [4,11],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "extra_ball": true }
+        ],
+        [
+            [4,12],
+            { "image":"bluegreen.gif", "delete":true, "points":20, "extra_ball": true }
+        ]
+    ]
+}
+    

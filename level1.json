@@ -1,0 +1,103 @@
+{
+    "timer" :100,
+    "blocks" :
+    [
+        [
+            [5,1],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,2],
+            { "image":"red.gif", "delete":true, "points":10, "bonus":50}
+        ],
+        [
+            [5,3],
+            { "image":"red.gif", "delete":true, "points":10}
+        ],
+        [
+            [5,4],
+            { "image":"red.gif", "delete":true, "points":10, "paddle_delta":1 }
+        ],
+        [
+            [5,5],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,6],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,7],
+            { "image":"red.gif", "delete":true, "points":10, "paddle_delta":-1 }
+        ],
+        [
+            [5,8],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,9],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,10],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,11],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [5,12],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,1],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,2],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,3],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,4],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,5],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,6],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,7],
+            { "image":"red.gif", "delete":true, "points":10, "bullets": 3 }
+        ],
+        [
+            [4,8],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,9],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,10],
+            { "image":"red.gif", "delete":true, "points":10, "bonus":100 }
+        ],
+        [
+            [4,11],
+            { "image":"red.gif", "delete":true, "points":10 }
+        ],
+        [
+            [4,12],
+            { "image":"red.gif", "delete":true, "points":10 , "extra_ball": true }
+        ]
+        
+    ]
+}

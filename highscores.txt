@@ -1,0 +1,6 @@
+arda 240
+arda 160
+nospace 150
+yesitsme 120
+arda 80
+hmmhmm 80
