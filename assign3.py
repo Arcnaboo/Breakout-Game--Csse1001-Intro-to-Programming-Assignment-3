@@ -541,7 +541,7 @@ class Model(object):
                                             self._paddle_is = "big"
                                         elif self._paddle_is == "small":
                                             self._paddle = Paddle(pos)
-                                            self._paddle_is = "mormal"
+                                            self._paddle_is = "normal" 
                                         else:
                                             pass
                                     else:
